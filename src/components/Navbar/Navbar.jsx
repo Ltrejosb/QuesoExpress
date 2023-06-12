@@ -10,17 +10,17 @@ import "./Navbar.css";
 
 const menuData = [
   {
-    title: "Home",
+    title: "INICIO",
     url: "/",
     icon: faHome,
   },
   {
-    title: "Products",
+    title: "PRODUCTOS",
     url: "/products",
     icon: faShoppingCart,
   },
   {
-    title: "Contact",
+    title: "CONTACTO",
     url: "/contact",
     icon: faEnvelope,
   },
